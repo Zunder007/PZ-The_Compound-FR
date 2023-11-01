@@ -1,0 +1,3 @@
+ItemName_FR = {
+	ItemName_Base.TheCompoundMap = "Carte de The Compound",
+}
